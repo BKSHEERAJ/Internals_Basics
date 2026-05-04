@@ -1,0 +1,13 @@
+{
+  "endpoint": "/predict",
+  "method": "POST",
+  "input_example": {
+    "read_length_bp": 5449,
+    "sample_quality_score": 5.1,
+    "coverage_depth": 48,
+    "is_whole_genome": 1
+  },
+  "output_example": {
+    "prediction": 41.78431975751516
+  }
+}

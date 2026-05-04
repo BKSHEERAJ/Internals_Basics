@@ -1,0 +1,5 @@
+{
+  "model_name": "genomeflow_model",
+  "stage": "Staging",
+  "experiment_name": "genomeflow-sequencing-hours"
+}
