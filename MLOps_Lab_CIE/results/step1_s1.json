@@ -1,1 +1,20 @@
-{"accuracy": 0.5}
+{
+    "experiment_name": "genomeflow-sequencing-hours",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 3.0476432080527927,
+            "rmse": 3.789166263457619,
+            "r2": 0.6221582495253256
+        },
+        {
+            "name": "Ridge",
+            "mae": 3.048406640409491,
+            "rmse": 3.539942789314446,
+            "r2": 0.6702269908385179
+        }
+    ],
+    "best_model": "Ridge",
+    "best_metric_name": "rmse",
+    "best_metric_value": 3.539942789314446
+}
